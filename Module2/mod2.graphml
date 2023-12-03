@@ -1,0 +1,3261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="num_reports" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="nan" />
+    <node id="NO APPARENT INJURY" />
+    <node id="BOWIE MILL RD" />
+    <node id="SPENCER RD" />
+    <node id="FIRSTFIELD RD" />
+    <node id="OLD SPRING RD" />
+    <node id="SUSPECTED SERIOUS INJURY" />
+    <node id="WOOTTON PKWY" />
+    <node id="VEIRS MILL RD" />
+    <node id="RANDOLPH RD" />
+    <node id="POSSIBLE INJURY" />
+    <node id="BRIGGS CHANEY RD" />
+    <node id="W DIAMOND AVE" />
+    <node id="ASPEN HILL RD" />
+    <node id="SENECA CROSSING DR" />
+    <node id="SUSPECTED MINOR INJURY" />
+    <node id="GREAT SENECA HWY" />
+    <node id="GIRARD ST" />
+    <node id="SPRING ST" />
+    <node id="ELMCROFT BLVD" />
+    <node id="COLUMBIA PIKE" />
+    <node id="RIVER RD" />
+    <node id="MUDDY BRANCH RD" />
+    <node id="MIDCOUNTY HWY" />
+    <node id="FREDERICK RD" />
+    <node id="NORBECK RD" />
+    <node id="UNIVERSITY BLVD W" />
+    <node id="ROCKVILLE PIKE" />
+    <node id="WASHINGTON GROVE LA" />
+    <node id="PARHAM RD" />
+    <node id="NEW HAMPSHIRE AVE" />
+    <node id="SHADY GROVE RD" />
+    <node id="GERMANTOWN RD" />
+    <node id="EISENHOWER MEMORIAL HWY" />
+    <node id="WESTLAKE TERR" />
+    <node id="ARBUTUS AVE" />
+    <node id="UNIVERSITY BLVD E" />
+    <node id="SEVEN LOCKS RD" />
+    <node id="OLNEY SANDY SPRING RD" />
+    <node id="COLESVILLE RD" />
+    <node id="CONNECTICUT AVE" />
+    <node id="N SUMMIT AVE" />
+    <node id="MASSACHUSETTS AVE" />
+    <node id="ST LAWRENCE DR" />
+    <node id="PORTER RD" />
+    <node id="POPLAR RUN DR" />
+    <node id="RESEARCH BLVD" />
+    <node id="E RANDOLPH RD" />
+    <node id="MONTROSE PKWY" />
+    <node id="7000 CARROLL AVE" />
+    <node id="SNOWDEN FARM PKWY" />
+    <node id="N WESTLAND DR" />
+    <node id="DARNESTOWN RD" />
+    <node id="GEORGIA AVE" />
+    <node id="PINEY MEETINGHOUSE RD" />
+    <node id="SILVER SPRING AVE" />
+    <node id="WELLER RD" />
+    <node id="FALLS RD" />
+    <node id="LAYHILL RD" />
+    <node id="WARING STATION RD" />
+    <node id="BEL PRE RD" />
+    <node id="WADE AVE" />
+    <node id="BRINK RD" />
+    <node id="SILVER ROCK RD" />
+    <node id="SLIGO AVE" />
+    <node id="NEW HAMPSHIRE AVE SER RD" />
+    <node id="DOMER AVE" />
+    <node id="BOU AVE" />
+    <node id="MIDDLEBROOK RD" />
+    <node id="EAST WEST HWY" />
+    <node id="LOCKWOOD DR" />
+    <node id="SAYBROOKE OAKS BLVD" />
+    <node id="CLOPPER RD" />
+    <node id="WATKINS MILL RD" />
+    <node id="NEEDWOOD RD" />
+    <node id="HILLSTONE RD" />
+    <node id="BLUHILL RD" />
+    <node id="GALT AVE" />
+    <node id="OLD GEORGETOWN RD" />
+    <node id="AMHERST AVE" />
+    <node id="ASHTON RD" />
+    <node id="FERNWOOD RD" />
+    <node id="COLLEGE PKWY" />
+    <node id="BROOKVILLE RD" />
+    <node id="GREAT FALLS RD" />
+    <node id="ARLINGTON RD" />
+    <node id="BROADBIRCH DR" />
+    <node id="QUINCE ORCHARD RD" />
+    <node id="NICHOLSON LN" />
+    <node id="DEMOCRACY BLVD" />
+    <node id="FLOWER AVE" />
+    <node id="EDGEWOOD AVE" />
+    <node id="EAST VILLAGE AVE" />
+    <node id="ROTHGEB DR" />
+    <node id="MONTGOMERY VILLAGE AVE" />
+    <node id="CONGRESSIONAL LA" />
+    <node id="KENTSDALE DR" />
+    <node id="CAPITAL BELTWAY" />
+    <node id="RAMP 5 FR IS 270 SB TO IS 370 EB" />
+    <node id="STEWART AVE" />
+    <node id="NEBEL ST" />
+    <node id="N WASHINGTON ST" />
+    <node id="ROCKLEDGE BLVD" />
+    <node id="BURDETTE RD" />
+    <node id="PARKLAWN DR" />
+    <node id="MEDICAL CENTER DR" />
+    <node id="STEDWICK RD" />
+    <node id="RIDGE RD" />
+    <node id="CALVERTON BLVD" />
+    <node id="AVERY RD" />
+    <node id="OMEGA DR" />
+    <node id="SNOUFFER SCHOOL RD" />
+    <node id="BUREAU DR" />
+    <node id="MEADOWBROOK LA" />
+    <node id="WISTERIA DR" />
+    <node id="ODENDHAL AVE" />
+    <node id="EASTMOOR DR" />
+    <node id="NORWOOD RD" />
+    <node id="AIRPARK RD" />
+    <node id="E GUDE DR" />
+    <node id="OSAGE ST" />
+    <node id="PRINCE PHILIP DR" />
+    <node id="WISCONSIN AVE" />
+    <node id="LEIBIG RD" />
+    <node id="FLEET ST" />
+    <node id="WOODGLEN DR" />
+    <node id="DIAMONDBACK DR" />
+    <node id="WELBECK WAY" />
+    <node id="TUCKERMAN LA" />
+    <node id="PINEY BRANCH RD" />
+    <node id="ETHAN ALLEN AVE" />
+    <node id="HATHAWAY DR" />
+    <node id="SCHRIDER ST" />
+    <node id="FATHER HURLEY BLVD" />
+    <node id="KENTLANDS BLVD" />
+    <node id="GLENALLAN AVE" />
+    <node id="ARBOR VIEW RD" />
+    <node id="GARDEN GATE RD" />
+    <node id="RUATAN ST" />
+    <node id="ARCOLA AVE" />
+    <node id="FATAL INJURY" />
+    <node id="FENTON ST" />
+    <node id="EDSON LA" />
+    <node id="HOLLY GROVE RD" />
+    <node id="GOOD HOPE RD" />
+    <node id="GOSHEN RD" />
+    <node id="MONTROSE RD" />
+    <node id="CAPITOL VIEW AVE" />
+    <node id="FIRST ST" />
+    <node id="1400 VEIRS MILL ROAD" />
+    <node id="BARITONE CT" />
+    <node id="GOODHILL RD" />
+    <node id="BROADWATER DR" />
+    <node id="SANDY SPRING RD" />
+    <node id="S PARK AVE" />
+    <node id="MANNAKEE ST" />
+    <node id="TRAVILAH RD" />
+    <node id="S FREDERICK RD" />
+    <node id="SETTLERS LANDING WAY" />
+    <node id="DENNIS AVE" />
+    <node id="INTERCOUNTY CONNECTOR" />
+    <node id="OLD COLUMBIA PIKE" />
+    <node id="KEOKUK ST" />
+    <node id="BURDETTE FOREST" />
+    <node id="PARK RD" />
+    <node id="TOURNAY RD" />
+    <node id="NORTHAMPTON DR" />
+    <node id="WOODMONT AVE" />
+    <node id="WOODFIELD RD" />
+    <node id="CHERRY HILL RD" />
+    <node id="RIFFLE FORD RD" />
+    <node id="BEALL AVE #2" />
+    <node id="DAMASCUS RD" />
+    <node id="MUNCASTER MILL RD" />
+    <node id="CORK TREE LA" />
+    <node id="MANCHESTER RD" />
+    <node id="ANITA CT" />
+    <node id="MINSTREL TUNE DR" />
+    <node id="SNOUFFERS SCHOOL RD" />
+    <node id="SNOWDEN FARM PKWY (PROP)" />
+    <node id="TWINBROOK PKWY" />
+    <node id="MUNCASTER RD" />
+    <node id="CROWN PARK AVE" />
+    <node id="BRADLEY LA" />
+    <node id="OLNEY LAYTONSVILLE RD" />
+    <node id="NATIONAL DR" />
+    <node id="W DEER PARK RD" />
+    <node id="MARTINSBURG RD" />
+    <node id="CRICKET HILL DR" />
+    <node id="ARMISTEAD RD" />
+    <node id="KING FARM BLVD" />
+    <node id="LINTON ST" />
+    <node id="RAMP 5 FR MD200A SB TO SHADY GROVE RD EB" />
+    <node id="NORTH GATE DR" />
+    <node id="W MONTGOMERY AVE" />
+    <node id="ENNALLS AVE" />
+    <node id="ROBEY RD" />
+    <node id="CLARKSBURG RD" />
+    <node id="CRYSTAL ROCK DR" />
+    <node id="SHERIDAN ST" />
+    <node id="WHITES FERRY RD" />
+    <node id="FAIRLAND RD" />
+    <node id="GREENCASTLE RD" />
+    <node id="TROLLEY CROSSING CT" />
+    <node id="LAMBERTON DR" />
+    <node id="LIVINGSTON ST" />
+    <node id="CARROLL AVE" />
+    <node id="CONTOUR RD" />
+    <node id="SECOND AVE" />
+    <node id="BEACON RD" />
+    <node id="WILKINS AVE" />
+    <node id="STALEYBRIDGE RD" />
+    <node id="BATTERY LA" />
+    <node id="CLEVELAND DR" />
+    <node id="NICHOLSON LA" />
+    <node id="61ST ST" />
+    <node id="BALTIMORE AVE" />
+    <node id="MASON DR" />
+    <node id="CLARKS CROSSING RD" />
+    <node id="BRADDOCK RD" />
+    <node id="WAYNE AVE" />
+    <node id="N STONESTREET AVE" />
+    <node id="OAKVIEW DR" />
+    <node id="WESTLAKE DR" />
+    <node id="CHAPMAN AVE" />
+    <node id="REDLAND BLVD" />
+    <node id="DURBIN TERR" />
+    <node id="JONES MILL RD" />
+    <node id="BLACKISTONE RD" />
+    <node id="HAYDEN DR" />
+    <node id="W GUDE DR" />
+    <node id="AVENEL RD" />
+    <node id="SAM EIG HWY" />
+    <node id="BURLINGTON AVE" />
+    <node id="16TH ST" />
+    <node id="OLD HUNDRED RD" />
+    <node id="RICHTER FARM RD" />
+    <node id="ELM ST" />
+    <node id="SHOREFIELD RD" />
+    <node id="CHRISTY DR" />
+    <node id="ORCHARD WAY N" />
+    <node id="BERLEIGH HILL CT" />
+    <node id="BALTIMORE RD" />
+    <node id="BEECH AVE" />
+    <node id="SADDLE RIDGE LA" />
+    <node id="FIELDS RD" />
+    <node id="WOODBURN RD" />
+    <node id="DUNSINANE DR" />
+    <node id="DAYTON ST" />
+    <node id="W WATKINS MILL RD" />
+    <node id="STEWART LA" />
+    <node id="REDLAND RD" />
+    <node id="ROCKY RD" />
+    <node id="AVON DR" />
+    <node id="BRADLEY BLVD" />
+    <node id="SLIGO CREEK PKWY" />
+    <node id="NO NAME" />
+    <node id="HANNES ST" />
+    <node id="FOREST GLEN RD" />
+    <node id="TIVOLI LAKE BLVD" />
+    <node id="WEST OLD BALTIMORE RD" />
+    <node id="PARKLAND DR" />
+    <node id="LITTLETON ST" />
+    <node id="NEWPORT MILL RD" />
+    <node id="GLENN MILL ROAD" />
+    <node id="PRELUDE DR" />
+    <node id="W EDMONSTON DR" />
+    <node id="BRANDERMILL DR" />
+    <node id="LONGMEAD CROSSING DR" />
+    <node id="OLD BALTIMORE RD" />
+    <node id="CIDER BARRELL DR" />
+    <node id="TOWN COMMONS BLVD" />
+    <node id="LAKELANDS DR" />
+    <node id="HUNGERFORD DR" />
+    <node id="WATERS LANDING DR" />
+    <node id="MUNSON ST" />
+    <node id="HAYWOOD DR" />
+    <node id="DOUGLAS AVE" />
+    <node id="GARDINER AVE" />
+    <node id="FINCH ST" />
+    <node id="CHARLES RD" />
+    <node id="ROLLINS AVE" />
+    <node id="E JEFFERSON ST" />
+    <node id="BANK ST" />
+    <node id="FARM HAVEN DR" />
+    <node id="EAST WEST HWY (W/B COUPLET)" />
+    <node id="BLACKPOOL RD" />
+    <node id="CEDAR ST" />
+    <node id="WIGHTMAN RD" />
+    <node id="E DIAMOND AVENUE" />
+    <node id="TULIP AVE" />
+    <node id="ROCKBRIDGE RD" />
+    <node id="METROPOLITAN GROVE RD" />
+    <node id="TAMARACK RD" />
+    <node id="HEWITT AVE" />
+    <node id="HENDERSON AVE" />
+    <node id="LINDALE DR" />
+    <node id="CHRISTOPHER AVE" />
+    <node id="STRAVINSKY DR" />
+    <node id="STRINGTOWN RD" />
+    <node id="MACARTHUR BLVD" />
+    <node id="RUSSETT RD" />
+    <node id="EMORY GROVE RD" />
+    <node id="DAWSON FARM RD" />
+    <node id="EASLEY ST" />
+    <node id="WANEGARDEN DR" />
+    <node id="GAINSBOROUGH RD" />
+    <node id="MARYLAND AVE" />
+    <node id="VEIRS DR" />
+    <node id="GREYSWOOD RD" />
+    <node id="BONIFANT RD" />
+    <node id="EDMONSTON DR" />
+    <node id="TOWER OAKS BLVD" />
+    <node id="DOGWOOD DR" />
+    <node id="SHAKESPEARE BLVD" />
+    <node id="ELMER SCHOOL RD" />
+    <node id="S SUMMIT AVE" />
+    <node id="KEMPTOWN RD" />
+    <node id="RUSSELL AVE" />
+    <node id="DALE DR" />
+    <node id="SUNDALE DR" />
+    <node id="BILLINGTON RD" />
+    <node id="WATER ST" />
+    <node id="EDGEWOOD RD" />
+    <node id="LITTLE SENECA PKWY" />
+    <node id="HORNBEAM DR" />
+    <node id="RAMP 8 FR US 29 SB TO DUSTIN RD" />
+    <node id="ARCTIC AVE" />
+    <node id="BEACH DR" />
+    <node id="SECURITY LA" />
+    <node id="SPENCERVILLE RD" />
+    <node id="MAIN ST" />
+    <node id="FREAS DR" />
+    <node id="MONROE ST" />
+    <node id="MONTGOMERY AVE" />
+    <node id="POSTOAK RD" />
+    <node id="LOST KNIFE RD" />
+    <node id="COCKERVILLE AVE" />
+    <node id="ZION RD" />
+    <node id="HALPINE ROAD" />
+    <node id="PRETORIA DR" />
+    <node id="BAUER DR" />
+    <node id="VICTORY LA" />
+    <node id="GROSVENOR PL" />
+    <node id="LONGDRAFT RD" />
+    <node id="EDGEMOOR LA" />
+    <node id="CRABBS BRANCH WAY" />
+    <node id="THAYER AVE" />
+    <node id="FRIENDSHIP BLVD" />
+    <node id="LAYTONSVILLE RD" />
+    <node id="MAYBROOK PL" />
+    <node id="DUTROW DR" />
+    <node id="CASTLE BLVD" />
+    <node id="BRASSIE PL" />
+    <node id="FLOWER HILL WAY" />
+    <node id="FIELDCREST RD" />
+    <node id="WILSON LA" />
+    <node id="DALEWOOD DR" />
+    <node id="FAIRDALE RD" />
+    <node id="GUE RD" />
+    <node id="SOUTHLAWN LA" />
+    <node id="MEDICAL CENTER WAY" />
+    <node id="BATCHELLORS FOREST RD" />
+    <node id="IDLEWOOD RD" />
+    <node id="NEW HAMPSHIRE AVE SERV RD" />
+    <node id="PARK AVE" />
+    <node id="HAVARD ST" />
+    <node id="BONIFANT ST" />
+    <node id="KNOWLES AVE" />
+    <node id="BRADMOOR DR" />
+    <node id="DENFELD AVE" />
+    <node id="KENT OAKS WAY" />
+    <node id="EVERTON ST" />
+    <node id="E DIAMOND AVE" />
+    <node id="MONROE PL" />
+    <node id="WILLOW LA" />
+    <node id="CEDAR LA" />
+    <node id="FREDALE ST" />
+    <node id="STONEYBROOK DR" />
+    <node id="DILSTON RD" />
+    <node id="BOSWELL LA" />
+    <node id="SNOWDEN FARM PARKWAY" />
+    <node id="GREENTREE RD" />
+    <node id="THE HILLS PLAZA" />
+    <node id="CORDELL AVE" />
+    <node id="JOPLIN DR" />
+    <node id="FLEETWOOD TERR" />
+    <node id="ASPENWOOD LA" />
+    <node id="GRIDLEY RD" />
+    <node id="WINTERGATE DR" />
+    <node id="KEY WEST AVE" />
+    <node id="POPLAR AVE" />
+    <node id="GRACEFIELD RD" />
+    <node id="OAKLYN DR" />
+    <node id="SENECA RD" />
+    <node id="BRIGHTON DR" />
+    <node id="BUSHEY DR" />
+    <node id="ST PAUL ST" />
+    <node id="VALLEYWOOD DR" />
+    <node id="8300 FLOWER AVE" />
+    <node id="OAK LEAF DR" />
+    <node id="BLACKWELL RD" />
+    <node id="GOLDSBORO RD" />
+    <node id="LINDEN LA" />
+    <node id="RAILROAD ST" />
+    <node id="HOLLAND MEADOW LA" />
+    <node id="NOTLEY RD" />
+    <node id="RAMP 4 FR IS 270 NB TO MD 189 EB" />
+    <node id="SHERWOOD FOREST DR" />
+    <node id="ROTHBURY DR" />
+    <node id="DEL RAY AVE" />
+    <node id="LEWISDALE RD" />
+    <node id="ELLSWORTH DR" />
+    <node id="TECH RD" />
+    <node id="IVY LEAGUE LA" />
+    <node id="NORTHWEST DR" />
+    <node id="AZALEA DR" />
+    <node id="CLARKSBURG SQUARE" />
+    <node id="GOLD MINE RD" />
+    <node id="RIPPLING BROOK DR" />
+    <node id="N HORNERS LA" />
+    <node id="ONEILL DR" />
+    <node id="RAMP 9 FR IS 370 EB TO SHADY GROVE RD" />
+    <node id="SOMERVILLE DR" />
+    <node id="QUEEN ELIZABETH DR" />
+    <node id="BRUNETT AVE" />
+    <node id="PERRY PKWY" />
+    <node id="MONTGOMERY VILLAGE AVENUE" />
+    <node id="RAMP 1 FR RAMP 4 (FR IS270) TO MD 189 WB" />
+    <node id="STRATTON DR" />
+    <node id="FERN ST" />
+    <node id="KERWIN RD" />
+    <node id="PLYERS MILL RD" />
+    <node id="CLARENDON RD" />
+    <node id="WISSAHICAN AVE" />
+    <node id="ORCHARD WAY S" />
+    <node id="495 WEST BOUND" />
+    <node id="PARKER AVE" />
+    <node id="SADDLE CREEK DR" />
+    <node id="OAKLAWN CT" />
+    <node id="CEDAR AVE" />
+    <node id="BEECHCRAFT AVE" />
+    <node id="SPRINGRIDGE RD" />
+    <node id="HILLERY WAY" />
+    <node id="SCENERY DR" />
+    <node id="LA DUKE DR" />
+    <node id="BUCKLODGE RD" />
+    <node id="HILLCROFT DR" />
+    <node id="OBSERVATION DR" />
+    <node id="GRANDVIEW AVE" />
+    <node id="E DEER PARK DR" />
+    <node id="HARROGATE RD" />
+    <node id="KEATING ST" />
+    <node id="RAMP 4 FR IS 270 NB TO MD 118 EB" />
+    <node id="METRO STATION" />
+    <node id="READING AVE" />
+    <node id="ANNE AVE" />
+    <node id="CHESTERFIELD RD" />
+    <node id="HILLWOOD DR" />
+    <node id="ROYAL FERN PL" />
+    <node id="GRIDLEY LA" />
+    <node id="PERSIMMON TREE RD" />
+    <node id="NEWELL ST" />
+    <node id="ARORA HILLS DR" />
+    <node id="COTTON TREE LA" />
+    <node id="BARNSLEY LA" />
+    <node id="RAMP 1 FR RAMP 4 (FR IS495) TO MD 190 WB" />
+    <node id="S VAN BUREN ST" />
+    <node id="BARRON ST" />
+    <node id="MERRIMAC DR" />
+    <node id="LITTLE FALLS PKWY" />
+    <node id="DRUMM AVE" />
+    <node id="FOUNDERS MILL DR" />
+    <node id="WINDING WOODS WAY" />
+    <node id="BARNESVILLE RD" />
+    <node id="MONTGOMERY LA" />
+    <node id="STANFORD ST" />
+    <node id="POWDER MILL RD" />
+    <node id="AUTOMOBILE BLVD" />
+    <node id="DREXEL HILL CIR" />
+    <node id="WALKERS CHOICE RD" />
+    <node id="LOFT LA" />
+    <node id="TROY RD" />
+    <node id="SEMINARY RD" />
+    <node id="STRATH HAVEN DR" />
+    <node id="LEVERTON ST" />
+    <node id="PARAMOUNT DR" />
+    <node id="WILLARD AVE" />
+    <node id="FRANKFORT DR" />
+    <node id="ASHLEY DR" />
+    <node id="FISHER AVE" />
+    <node id="VALLEY BROOK DR" />
+    <node id="ASTON MANOR DR" />
+    <node id="JONES BRIDGE RD" />
+    <node id="S GLEN RD" />
+    <node id="N LEISURE WORLD BLVD" />
+    <node id="LUTES DR" />
+    <node id="CLUB VIEW DR" />
+    <node id="SUMMIT AVE" />
+    <node id="RAMP 8 FR MD 187B SB TO IS 270 WB" />
+    <node id="LAKE FOREST BLVD" />
+    <node id="RAMP 8 FR MD 650 SB TO IS 495 WB" />
+    <node id="BLUNT RD" />
+    <node id="KILKENNY ST" />
+    <node id="MUSGROVE RD" />
+    <node id="TAKOMA AVE" />
+    <node id="MORNINGWOOD DR" />
+    <node id="PLUMMER DR" />
+    <node id="DENHAM RD" />
+    <node id="RAMP 3 FR MD 200 EB TO MD 97 NB" />
+    <node id="UNIVERSITY BLVD" />
+    <node id="S CHELSEA LA" />
+    <node id="HAMPDEN LA" />
+    <node id="MD355" />
+    <node id="CLUB HOUSE RD" />
+    <node id="BROGDEN RD" />
+    <node id="ROSSMOOR BLVD" />
+    <node id="MANOR CREST LANE" />
+    <node id="CAPELLA LA" />
+    <node id="GUNNERS BRANCH RD" />
+    <node id="FOUNDERS WAY" />
+    <node id="LANDON LA" />
+    <node id="PROSPERITY DR" />
+    <node id="CHEVY CHASE ST" />
+    <node id="BODMER AVE" />
+    <node id="ARCOLA AVENUE" />
+    <node id="MURDOCK RD" />
+    <node id="SUGAR RIDGE TERR" />
+    <node id="INDEPENDENCE ST" />
+    <node id="CENTERWAY RD" />
+    <node id="PARKMAN RD" />
+    <node id="DUMBARTON DR" />
+    <node id="SOUTHWOOD AVE" />
+    <node id="PROSE ST" />
+    <node id="STRAWBERRY KNOLL RD" />
+    <node id="HILTON AVE" />
+    <node id="VEIRS MILL SERV RD" />
+    <node id="CHARLESTON DR" />
+    <node id="BLUERIDGE AVE" />
+    <node id="CABIN JOHN PKWY" />
+    <node id="HARDY AVE" />
+    <node id="RAMP 1 FR RAMP 4 (US29)TO CHERRY HILL RD" />
+    <node id="N. LEISURE WORLD BLVD." />
+    <node id="CANNES LANE" />
+    <node id="TURKEY FOOT RD" />
+    <node id="JACKSON AVE" />
+    <node id="LEWIS AVE" />
+    <node id="COLUMBUS AVE" />
+    <node id="RAMP 1 FR MD 97 NB TO IS 495 WB" />
+    <node id="TUPELO DR" />
+    <node id="KINGS CROSSING BLVD" />
+    <node id="KINGSVIEW VILLAGE AVE" />
+    <node id="COLSTON DR" />
+    <node id="NORTH FREDERICK ROAD" />
+    <node id="COMMERCE LA" />
+    <node id="TANLEY RD" />
+    <node id="ZETTS AVE" />
+    <node id="HOMECREST RD" />
+    <node id="LONGWOOD DR" />
+    <node id="GLEN RD" />
+    <node id="KEMP MILL RD" />
+    <node id="FRANKLIN AVE" />
+    <node id="SEMINARY PL" />
+    <node id="INDIANOLA DR" />
+    <node id="QUINCE ORCHARD BLVD" />
+    <node id="OAKMONT AVE" />
+    <node id="ATHERTON DR" />
+    <node id="BROOKS AVE" />
+    <node id="PARKRIDGE DR" />
+    <node id="FOREST BROOK RD" />
+    <node id="RAMP 3 FR IS 495 EB TO MD 97 NB" />
+    <node id="RAMP 1 FR IS 270 NB TO IS 370 WB" />
+    <node id="FEDERAL ST" />
+    <node id="APPLE AVE" />
+    <node id="ELLINGTON BLVD" />
+    <node id="HOPKINS RD" />
+    <node id="OAKVALE ST" />
+    <node id="MILLER FALL RD" />
+    <node id="KERSEY LA" />
+    <node id="KINGWOOD DR" />
+    <node id="GROSVENOR LA" />
+    <node id="QUEENAIR DR" />
+    <node id="BUDD RD" />
+    <node id="ARROWHEAD RD" />
+    <node id="WARFIELD RD" />
+    <node id="WEXHALL DR" />
+    <node id="JERUSALEM RD" />
+    <node id="ENTRANCE TO WHEATON PLAZA" />
+    <node id="ELM AVE" />
+    <node id="LORAIN AVE" />
+    <node id="FALLS ROAD" />
+    <node id="BLAIR MILL RD" />
+    <node id="PARK VISTA DR" />
+    <node id="BROADVIEW RD" />
+    <node id="CADDINGTON AVE" />
+    <node id="SUNDOWN RD" />
+    <node id="CABIN BRANCH AVE" />
+    <node id="DUFIEF MILL RD" />
+    <node id="ROEDER RD" />
+    <node id="TISDALE TERR" />
+    <node id="RAMP 2 FR IS 495 WB TO MD 650 NB" />
+    <node id="DELLCASTLE RD" />
+    <node id="LOWER COUNTRY DR" />
+    <node id="CRABB AVE" />
+    <node id="SANGAMORE RD" />
+    <node id="HALPINE RD" />
+    <node id="CINNAMON DR" />
+    <node id="SPRING AVE" />
+    <node id="PORTERFIELD WAY" />
+    <node id="MT PISGAH RD" />
+    <node id="KIMES ST" />
+    <node id="KAYSON ST" />
+    <node id="VALLEY BEND DR" />
+    <node id="FALLSGROVE BLVD" />
+    <node id="COLONY RD" />
+    <edge source="nan" target="NO APPARENT INJURY">
+      <data key="d0">414.0</data>
+    </edge>
+    <edge source="nan" target="SUSPECTED MINOR INJURY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="nan" target="POSSIBLE INJURY">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="nan" target="SUSPECTED SERIOUS INJURY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BOWIE MILL RD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SPENCER RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FIRSTFIELD RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLD SPRING RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WOOTTON PKWY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VEIRS MILL RD">
+      <data key="d0">77.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RANDOLPH RD">
+      <data key="d0">79.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRIGGS CHANEY RD">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="W DIAMOND AVE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ASPEN HILL RD">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SENECA CROSSING DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GREAT SENECA HWY">
+      <data key="d0">45.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GIRARD ST">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SPRING ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ELMCROFT BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COLUMBIA PIKE">
+      <data key="d0">109.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RIVER RD">
+      <data key="d0">46.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MUDDY BRANCH RD">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MIDCOUNTY HWY">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FREDERICK RD">
+      <data key="d0">156.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NORBECK RD">
+      <data key="d0">42.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROCKVILLE PIKE">
+      <data key="d0">94.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WASHINGTON GROVE LA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARHAM RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEW HAMPSHIRE AVE">
+      <data key="d0">143.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SHADY GROVE RD">
+      <data key="d0">54.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GERMANTOWN RD">
+      <data key="d0">52.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EISENHOWER MEMORIAL HWY">
+      <data key="d0">39.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WESTLAKE TERR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="UNIVERSITY BLVD W">
+      <data key="d0">54.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARBUTUS AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="UNIVERSITY BLVD E">
+      <data key="d0">56.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SEVEN LOCKS RD">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLNEY SANDY SPRING RD">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COLESVILLE RD">
+      <data key="d0">110.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CONNECTICUT AVE">
+      <data key="d0">103.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="N SUMMIT AVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MASSACHUSETTS AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ST LAWRENCE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PORTER RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="POPLAR RUN DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RESEARCH BLVD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="E RANDOLPH RD">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONTROSE PKWY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="7000 CARROLL AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SNOWDEN FARM PKWY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="N WESTLAND DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DARNESTOWN RD">
+      <data key="d0">49.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GEORGIA AVE">
+      <data key="d0">249.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SILVER SPRING AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WELLER RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FALLS RD">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LAYHILL RD">
+      <data key="d0">32.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WARING STATION RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BEL PRE RD">
+      <data key="d0">33.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WADE AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRINK RD">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SILVER ROCK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SLIGO AVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DOMER AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BOU AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MIDDLEBROOK RD">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EAST WEST HWY">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LOCKWOOD DR">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SAYBROOKE OAKS BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLOPPER RD">
+      <data key="d0">38.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WATKINS MILL RD">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEEDWOOD RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HILLSTONE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLUHILL RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GALT AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLD GEORGETOWN RD">
+      <data key="d0">68.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AMHERST AVE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ASHTON RD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FERNWOOD RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COLLEGE PKWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BROOKVILLE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GREAT FALLS RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BROADBIRCH DR">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="QUINCE ORCHARD RD">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NICHOLSON LN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DEMOCRACY BLVD">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FLOWER AVE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EDGEWOOD AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EAST VILLAGE AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROTHGEB DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONTGOMERY VILLAGE AVE">
+      <data key="d0">65.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEW HAMPSHIRE AVE SER RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CONGRESSIONAL LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KENTSDALE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CAPITAL BELTWAY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 5 FR IS 270 SB TO IS 370 EB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STEWART AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEBEL ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="N WASHINGTON ST">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROCKLEDGE BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BURDETTE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARKLAWN DR">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MEDICAL CENTER DR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STEDWICK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RIDGE RD">
+      <data key="d0">55.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CALVERTON BLVD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AVERY RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SNOUFFER SCHOOL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BUREAU DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MEADOWBROOK LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WISTERIA DR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ODENDHAL AVE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EASTMOOR DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NORWOOD RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AIRPARK RD">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="E GUDE DR">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OSAGE ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PRINCE PHILIP DR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WISCONSIN AVE">
+      <data key="d0">23.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LEIBIG RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FLEET ST">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WOODGLEN DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DIAMONDBACK DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WELBECK WAY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TUCKERMAN LA">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PINEY BRANCH RD">
+      <data key="d0">35.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ETHAN ALLEN AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HATHAWAY DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SCHRIDER ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FATHER HURLEY BLVD">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GLENALLAN AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARBOR VIEW RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GARDEN GATE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RUATAN ST">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FENTON ST">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EDSON LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HOLLY GROVE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GOOD HOPE RD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GOSHEN RD">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONTROSE RD">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CAPITOL VIEW AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FIRST ST">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="1400 VEIRS MILL ROAD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BARITONE CT">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GOODHILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SANDY SPRING RD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="S PARK AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MANNAKEE ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TRAVILAH RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SETTLERS LANDING WAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DENNIS AVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="INTERCOUNTY CONNECTOR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KEOKUK ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BURDETTE FOREST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARK RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TOURNAY RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NORTHAMPTON DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WOODMONT AVE">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WOODFIELD RD">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RIFFLE FORD RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BEALL AVE #2">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DAMASCUS RD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MUNCASTER MILL RD">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MANCHESTER RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ANITA CT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MINSTREL TUNE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SNOUFFERS SCHOOL RD">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SNOWDEN FARM PKWY (PROP)">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TWINBROOK PKWY">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CROWN PARK AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRADLEY LA">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLNEY LAYTONSVILLE RD">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NATIONAL DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="W DEER PARK RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MARTINSBURG RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CRICKET HILL DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARMISTEAD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KING FARM BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHERRY HILL RD">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LINTON ST">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 5 FR MD200A SB TO SHADY GROVE RD EB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NORTH GATE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="W MONTGOMERY AVE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ENNALLS AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROBEY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLARKSBURG RD">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CRYSTAL ROCK DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SHERIDAN ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WHITES FERRY RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FAIRLAND RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GREENCASTLE RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TROLLEY CROSSING CT">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LIVINGSTON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CARROLL AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CONTOUR RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SECOND AVE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BEACON RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WILKINS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STALEYBRIDGE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BATTERY LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLEVELAND DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NICHOLSON LA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="61ST ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BALTIMORE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MASON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLARKS CROSSING RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRADDOCK RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="N STONESTREET AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OAKVIEW DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WESTLAKE DR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHAPMAN AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="REDLAND BLVD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DURBIN TERR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="JONES MILL RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLACKISTONE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HAYDEN DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="W GUDE DR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AVENEL RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BURLINGTON AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="16TH ST">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RICHTER FARM RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ELM ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SHOREFIELD RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHRISTY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ORCHARD WAY N">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BERLEIGH HILL CT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BALTIMORE RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BEECH AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SADDLE RIDGE LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FIELDS RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WOODBURN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DUNSINANE DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DAYTON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="W WATKINS MILL RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLD COLUMBIA PIKE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STEWART LA">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="REDLAND RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROCKY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLD HUNDRED RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AVON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRADLEY BLVD">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SLIGO CREEK PKWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NO NAME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HANNES ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FOREST GLEN RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TIVOLI LAKE BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WEST OLD BALTIMORE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARKLAND DR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LITTLETON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEWPORT MILL RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GLENN MILL ROAD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PRELUDE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="W EDMONSTON DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRANDERMILL DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OLD BALTIMORE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CIDER BARRELL DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TOWN COMMONS BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HUNGERFORD DR">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WATERS LANDING DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MUNSON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HAYWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHARLES RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROLLINS AVE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="E JEFFERSON ST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BANK ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FARM HAVEN DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EAST WEST HWY (W/B COUPLET)">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLACKPOOL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CEDAR ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WIGHTMAN RD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="E DIAMOND AVENUE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TULIP AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROCKBRIDGE RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="METROPOLITAN GROVE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HEWITT AVE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HENDERSON AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LINDALE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHRISTOPHER AVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STRAVINSKY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STRINGTOWN RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MACARTHUR BLVD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RUSSETT RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="S FREDERICK RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EMORY GROVE RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DAWSON FARM RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EASLEY ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARLINGTON RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WANEGARDEN DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GAINSBOROUGH RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MARYLAND AVE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VEIRS DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GREYSWOOD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BONIFANT RD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EDMONSTON DR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TOWER OAKS BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DOGWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SHAKESPEARE BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ELMER SCHOOL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="S SUMMIT AVE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KEMPTOWN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RUSSELL AVE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DALE DR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SUNDALE DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SAM EIG HWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WATER ST">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EDGEWOOD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LITTLE SENECA PKWY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HORNBEAM DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SECURITY LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SPENCERVILLE RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MAIN ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FREAS DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONROE ST">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONTGOMERY AVE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="POSTOAK RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LOST KNIFE RD">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COCKERVILLE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ZION RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HALPINE ROAD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PRETORIA DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BAUER DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VICTORY LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GROSVENOR PL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LONGDRAFT RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EDGEMOOR LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CRABBS BRANCH WAY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="THAYER AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FRIENDSHIP BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LAYTONSVILLE RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MAYBROOK PL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DUTROW DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CASTLE BLVD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRASSIE PL">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FLOWER HILL WAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FIELDCREST RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WILSON LA">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DALEWOOD DR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GUE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SOUTHLAWN LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MEDICAL CENTER WAY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="IDLEWOOD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEW HAMPSHIRE AVE SERV RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HAVARD ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BONIFANT ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KNOWLES AVE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARCOLA AVE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DENFELD AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KENT OAKS WAY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="EVERTON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="E DIAMOND AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONROE PL">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WILLOW LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARCTIC AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FREDALE ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STONEYBROOK DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DILSTON RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BOSWELL LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GREENTREE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="THE HILLS PLAZA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CORDELL AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="JOPLIN DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FLEETWOOD TERR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ASPENWOOD LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GRIDLEY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WINTERGATE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KEY WEST AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="POPLAR AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GRACEFIELD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SENECA RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRIGHTON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BUSHEY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ST PAUL ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VALLEYWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="8300 FLOWER AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OAK LEAF DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLACKWELL RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GOLDSBORO RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LINDEN LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAILROAD ST">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HOLLAND MEADOW LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NOTLEY RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 4 FR IS 270 NB TO MD 189 EB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MUNCASTER RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROTHBURY DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DEL RAY AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LEWISDALE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WAYNE AVE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CEDAR LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ELLSWORTH DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TECH RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="IVY LEAGUE LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NORTHWEST DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AZALEA DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLARKSBURG SQUARE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GOLD MINE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RIPPLING BROOK DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="N HORNERS LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ONEILL DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 9 FR IS 370 EB TO SHADY GROVE RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SOMERVILLE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="QUEEN ELIZABETH DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BRUNETT AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PERRY PKWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONTGOMERY VILLAGE AVENUE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 1 FR RAMP 4 (FR IS270) TO MD 189 WB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FERN ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KERWIN RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PLYERS MILL RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLARENDON RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WISSAHICAN AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ORCHARD WAY S">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="495 WEST BOUND">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARKER AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SADDLE CREEK DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CEDAR AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BEECHCRAFT AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SPRINGRIDGE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HILLERY WAY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SCENERY DR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LA DUKE DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BUCKLODGE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HILLCROFT DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OBSERVATION DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GRANDVIEW AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="E DEER PARK DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HARROGATE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KEATING ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 4 FR IS 270 NB TO MD 118 EB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="METRO STATION">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="READING AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ANNE AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHESTERFIELD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HILLWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROYAL FERN PL">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GRIDLEY LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PERSIMMON TREE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NEWELL ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COTTON TREE LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BARNSLEY LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 1 FR RAMP 4 (FR IS495) TO MD 190 WB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BARRON ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MERRIMAC DR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LITTLE FALLS PKWY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DRUMM AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FOUNDERS MILL DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MONTGOMERY LA">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STANFORD ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="POWDER MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="AUTOMOBILE BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DREXEL HILL CIR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WALKERS CHOICE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LOFT LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TROY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SEMINARY RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STRATH HAVEN DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LEVERTON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARAMOUNT DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WILLARD AVE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ASHLEY DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FISHER AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VALLEY BROOK DR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ASTON MANOR DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="JONES BRIDGE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="S GLEN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LUTES DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLUB VIEW DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SUMMIT AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 8 FR MD 650 SB TO IS 495 WB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLUNT RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KILKENNY ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MUSGROVE RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TAKOMA AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MORNINGWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DENHAM RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 3 FR MD 200 EB TO MD 97 NB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="UNIVERSITY BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="S CHELSEA LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HAMPDEN LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CLUB HOUSE RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BROGDEN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROSSMOOR BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MANOR CREST LANE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CAPELLA LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GUNNERS BRANCH RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FOUNDERS WAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LANDON LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHEVY CHASE ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BODMER AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARCOLA AVENUE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MURDOCK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SUGAR RIDGE TERR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="INDEPENDENCE ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CENTERWAY RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARKMAN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DUMBARTON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SOUTHWOOD AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PROSE ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="STRAWBERRY KNOLL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HILTON AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VEIRS MILL SERV RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CHARLESTON DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLUERIDGE AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HARDY AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 1 FR RAMP 4 (US29)TO CHERRY HILL RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="N. LEISURE WORLD BLVD.">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CANNES LANE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TURKEY FOOT RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="JACKSON AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LEWIS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COLUMBUS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TUPELO DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KINGS CROSSING BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KINGSVIEW VILLAGE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COLSTON DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="NORTH FREDERICK ROAD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COMMERCE LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TANLEY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ZETTS AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HOMECREST RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LONGWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GLEN RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KEMP MILL RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FRANKLIN AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SEMINARY PL">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="INDIANOLA DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OAKMONT AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ATHERTON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BROOKS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OMEGA DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARKRIDGE DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FOREST BROOK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 3 FR IS 495 EB TO MD 97 NB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 1 FR IS 270 NB TO IS 370 WB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FEDERAL ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="APPLE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ELLINGTON BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HOPKINS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="OAKVALE ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MILLER FALL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KERSEY LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PINEY MEETINGHOUSE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KINGWOOD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="GROSVENOR LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="QUEENAIR DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BUDD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ARROWHEAD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="WEXHALL DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="JERUSALEM RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ENTRANCE TO WHEATON PLAZA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ELM AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LORAIN AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FALLS ROAD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLAIR MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PARK VISTA DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BROADVIEW RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CADDINGTON AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CABIN BRANCH AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="DUFIEF MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="ROEDER RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="TISDALE TERR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LONGMEAD CROSSING DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="RAMP 2 FR IS 495 WB TO MD 650 NB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="LOWER COUNTRY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CRABB AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SANGAMORE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="HALPINE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="CINNAMON DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="SPRING AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="PORTERFIELD WAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="MT PISGAH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KIMES ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="KAYSON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="VALLEY BEND DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="FALLSGROVE BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="COLONY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FIRSTFIELD RD" target="POSSIBLE INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FIRSTFIELD RD" target="SUSPECTED MINOR INJURY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="OLD SPRING RD" target="SUSPECTED SERIOUS INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="BRIGGS CHANEY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="NEW HAMPSHIRE AVE SER RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="DARNESTOWN RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="LAYHILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="DAMASCUS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="GERMANTOWN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="E RANDOLPH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="COLUMBIA PIKE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="GREAT SENECA HWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="RANDOLPH RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="COLESVILLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="SEVEN LOCKS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="PERRY PKWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="RIVER RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="NEW HAMPSHIRE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="GEORGIA AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="CONNECTICUT AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="OLD COLUMBIA PIKE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="WOODFIELD RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="HUNGERFORD DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="E GUDE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="VEIRS MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="QUINCE ORCHARD BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="WELLER RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="BRADLEY BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="CLARKSBURG RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED SERIOUS INJURY" target="KAYSON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WOOTTON PKWY" target="POSSIBLE INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="VEIRS MILL RD" target="POSSIBLE INJURY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="VEIRS MILL RD" target="SUSPECTED MINOR INJURY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="VEIRS MILL RD" target="FATAL INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RANDOLPH RD" target="POSSIBLE INJURY">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="RANDOLPH RD" target="SUSPECTED MINOR INJURY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ASPEN HILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MUDDY BRANCH RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NORBECK RD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="UNIVERSITY BLVD W">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="PARHAM RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SHADY GROVE RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GERMANTOWN RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CONNECTICUT AVE">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GREAT SENECA HWY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="PINEY MEETINGHOUSE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WARING STATION RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BEL PRE RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FREDERICK RD">
+      <data key="d0">35.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CLOPPER RD">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NEW HAMPSHIRE AVE">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ARLINGTON RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="QUINCE ORCHARD RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="COLUMBIA PIKE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MIDCOUNTY HWY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CAPITAL BELTWAY">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BURDETTE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BRIGGS CHANEY RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MEDICAL CENTER DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="STEDWICK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OMEGA DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SNOUFFER SCHOOL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BUREAU DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="RIVER RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WISTERIA DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GLENALLAN AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OLD GEORGETOWN RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BROADWATER DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="S PARK AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="S FREDERICK RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="INTERCOUNTY CONNECTOR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OLD COLUMBIA PIKE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NORWOOD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WOODFIELD RD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CHERRY HILL RD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="COLESVILLE RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="DAMASCUS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CORK TREE LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="TWINBROOK PKWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GEORGIA AVE">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MUNCASTER MILL RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FLOWER AVE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CALVERTON BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MIDDLEBROOK RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="UNIVERSITY BLVD E">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NORTH GATE DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WHITES FERRY RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FAIRLAND RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SEVEN LOCKS RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GREENCASTLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CONTOUR RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WISCONSIN AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="DEMOCRACY BLVD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WAYNE AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OAKVIEW DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BROADBIRCH DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SAM EIG HWY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BURLINGTON AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MONTGOMERY VILLAGE AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ARCOLA AVE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MONTROSE RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BRADLEY BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WATKINS MILL RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ROCKVILLE PIKE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FOREST GLEN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LONGMEAD CROSSING DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LAKELANDS DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="AVENEL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MUNSON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="PARKLAWN DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="TUCKERMAN LA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="TAMARACK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="TOWER OAKS BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WASHINGTON GROVE LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BILLINGTON RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GOSHEN RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ARCTIC AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FIRST ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="S SUMMIT AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FAIRDALE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="E GUDE DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BATCHELLORS FOREST RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WELLER RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ODENDHAL AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LAYHILL RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SNOWDEN FARM PARKWAY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GRIDLEY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="DARNESTOWN RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OAKLYN DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BONIFANT RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SHERWOOD FOREST DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MONTROSE PKWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CLARKSBURG RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="DEL RAY AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="EAST WEST HWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LEWISDALE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LOCKWOOD DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LONGDRAFT RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NEEDWOOD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MONTGOMERY VILLAGE AVENUE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="495 WEST BOUND">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OAKLAWN CT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CEDAR AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SCENERY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FATHER HURLEY BLVD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CHRISTOPHER AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="GOOD HOPE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CHAPMAN AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ARORA HILLS DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="S VAN BUREN ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="AIRPARK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OLNEY LAYTONSVILLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="REDLAND RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BARNESVILLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FENTON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="RIDGE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="LOFT LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ASHTON RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NOTLEY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MACARTHUR BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="N LEISURE WORLD BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WEST OLD BALTIMORE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="PLUMMER DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="RUSSELL AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MD355">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="PROSPERITY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="CENTERWAY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="RAMP 1 FR MD 97 NB TO IS 495 WB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="NEW HAMPSHIRE AVE SERV RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SPENCERVILLE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="KNOWLES AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="TRAVILAH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="JONES MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="W GUDE DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="PINEY BRANCH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="OAKMONT AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="STRINGTOWN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FALLS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SANDY SPRING RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="HOPKINS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="MILLER FALL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SNOUFFERS SCHOOL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="WARFIELD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="SUNDOWN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BLUERIDGE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="BUCKLODGE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="DELLCASTLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="ROSSMOOR BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="W MONTGOMERY AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="STEWART LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POSSIBLE INJURY" target="FALLSGROVE BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BRIGGS CHANEY RD" target="SUSPECTED MINOR INJURY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="W DIAMOND AVE" target="SUSPECTED MINOR INJURY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ASPEN HILL RD" target="SUSPECTED MINOR INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="PARHAM RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CONNECTICUT AVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="E RANDOLPH RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="GEORGIA AVE">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BRINK RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CLOPPER RD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OLD GEORGETOWN RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="ARLINGTON RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BROADBIRCH DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="COLUMBIA PIKE">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="EISENHOWER MEMORIAL HWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MONTGOMERY VILLAGE AVE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="UNIVERSITY BLVD W">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="GERMANTOWN RD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="KENTLANDS BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="NEW HAMPSHIRE AVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="TUCKERMAN LA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="RIVER RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="DARNESTOWN RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MUNCASTER RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MUNCASTER MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="DEMOCRACY BLVD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="LAMBERTON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WILKINS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="NORBECK RD">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OLD HUNDRED RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="GREAT SENECA HWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OLNEY LAYTONSVILLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="LAYHILL RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="RIDGE RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WOODFIELD RD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="GIRARD ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MIDCOUNTY HWY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="LONGMEAD CROSSING DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="ROCKVILLE PIKE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="DOUGLAS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="GARDINER AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="FINCH ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CALVERTON BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OLD COLUMBIA PIKE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="TAMARACK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="SHAKESPEARE BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="DENNIS AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="SANDY SPRING RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BEACH DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CRABBS BRANCH WAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="PINEY BRANCH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WILSON LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="PARK AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BRADMOOR DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OLD BALTIMORE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="EVERTON ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="E JEFFERSON ST">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WATKINS MILL RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="FATHER HURLEY BLVD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CEDAR LA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="PARK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="FREDERICK RD">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="16TH ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="KEY WEST AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="SHADY GROVE RD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BUSHEY DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="S FREDERICK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WHITES FERRY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WELLER RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="E GUDE DR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WAYNE AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="NEEDWOOD RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="STRATTON DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OAKLAWN CT">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WISTERIA DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BEL PRE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MEDICAL CENTER DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="SENECA RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="W MONTGOMERY AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="QUINCE ORCHARD RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="WINDING WOODS WAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="POWDER MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MONTROSE RD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="ASHTON RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="FRANKFORT DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="ASTON MANOR DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="RAMP 8 FR MD 187B SB TO IS 270 WB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="LAKE FOREST BLVD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BARNESVILLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="EAST WEST HWY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="AVERY RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="COLESVILLE RD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="DAMASCUS RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MUSGROVE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="INDEPENDENCE ST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CABIN JOHN PKWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="NEWPORT MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="PARKLAWN DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MIDDLEBROOK RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="JACKSON AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="SPENCERVILLE RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="TRAVILAH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="CHERRY HILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="SNOUFFERS SCHOOL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="N STONESTREET AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="KEMP MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="HUNGERFORD DR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="BROADVIEW RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="DUFIEF MILL RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="RUSSELL AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="MT PISGAH RD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPECTED MINOR INJURY" target="OAKMONT AVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EAST WEST HWY" target="FATAL INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ARCOLA AVE" target="FATAL INJURY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FATAL INJURY" target="RAMP 8 FR US 29 SB TO DUSTIN RD">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>
