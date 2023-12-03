@@ -280,15 +280,15 @@
     <node id="MUNSON ST" />
     <node id="HAYWOOD DR" />
     <node id="DOUGLAS AVE" />
-    <node id="FINCH ST" />
     <node id="GARDINER AVE" />
+    <node id="FINCH ST" />
     <node id="CHARLES RD" />
     <node id="ROLLINS AVE" />
     <node id="E JEFFERSON ST" />
     <node id="BANK ST" />
     <node id="FARM HAVEN DR" />
-    <node id="BLACKPOOL RD" />
     <node id="EAST WEST HWY (W/B COUPLET)" />
+    <node id="BLACKPOOL RD" />
     <node id="CEDAR ST" />
     <node id="WIGHTMAN RD" />
     <node id="E DIAMOND AVENUE" />
@@ -1415,11 +1415,11 @@
     <edge source="NO APPARENT INJURY" target="FARM HAVEN DR">
       <data key="d0">2.0</data>
     </edge>
-    <edge source="NO APPARENT INJURY" target="BLACKPOOL RD">
-      <data key="d0">1.0</data>
-    </edge>
     <edge source="NO APPARENT INJURY" target="EAST WEST HWY (W/B COUPLET)">
       <data key="d0">4.0</data>
+    </edge>
+    <edge source="NO APPARENT INJURY" target="BLACKPOOL RD">
+      <data key="d0">1.0</data>
     </edge>
     <edge source="NO APPARENT INJURY" target="CEDAR ST">
       <data key="d0">1.0</data>
@@ -3032,10 +3032,10 @@
     <edge source="SUSPECTED MINOR INJURY" target="DOUGLAS AVE">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="SUSPECTED MINOR INJURY" target="FINCH ST">
+    <edge source="SUSPECTED MINOR INJURY" target="GARDINER AVE">
       <data key="d0">1.0</data>
     </edge>
-    <edge source="SUSPECTED MINOR INJURY" target="GARDINER AVE">
+    <edge source="SUSPECTED MINOR INJURY" target="FINCH ST">
       <data key="d0">1.0</data>
     </edge>
     <edge source="SUSPECTED MINOR INJURY" target="CALVERTON BLVD">
